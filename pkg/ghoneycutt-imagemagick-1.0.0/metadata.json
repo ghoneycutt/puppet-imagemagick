@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-imagemagick",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "7390ade8bbf00520c8474b672d3736c5",
+    "tests/init.pp": "f49255d609f90bfb096d10cb7345293c",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "2705497ea0391ac7221c0e265a1c68db",
+    "manifests/init.pp": "9c891d6a57a61d16bd31f0ff562d8375"
+  },
+  "types": [
+
+  ]
+}
